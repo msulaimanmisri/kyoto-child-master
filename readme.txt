@@ -3,7 +3,7 @@
 
 Author : Muhamad Sulaiman Misri
 Author URL : https://sulaimanmisri.com
-Project : Asia Quest Malaysia
+Project : AQM
 
 === Description ===
 * Custom child theme to develop what the client wants.
